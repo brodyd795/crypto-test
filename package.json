@@ -1,0 +1,15 @@
+{
+  "name": "encrypt-test",
+  "version": "1.0.0",
+  "description": "Simple message encryption tool using crypto library",
+  "main": "index.js",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brody Dingel",
+  "license": "ISC"
+}
